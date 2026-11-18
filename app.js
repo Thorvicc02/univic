@@ -1,4 +1,4 @@
-const APP_VERSION = "v1";
+const APP_VERSION = "v2";
 const KEY = "miu-primavera-2026";
 const INGLES_URL = "https://thorvicc02.github.io/ingles-trabajo/";
 
